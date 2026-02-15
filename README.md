@@ -199,11 +199,3 @@ Authorization: Bearer ACCESS_TOKEN
 * Recuperação de senha
 * Roles (admin / user)
 * Testes automatizados (Jest)
-
----
-
-## 👨‍💻 Autor
-
-**Marcos Richelly**
-
-Projeto desenvolvido para fins de estudo e portfólio backend.
